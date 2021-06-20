@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BoUnYemekhane</string>
+    <string name="bounDiningHall">BOUN Yemek</string>
+    <string name="todaysFood">Günün Yemeği</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yemekhanedeNeVar">Yemekhanede Ne Var?</string>
+    <string name="noonFood">Öğle Yemeği</string>
+    <string name="eveningFood">Akşam Yemeği</string>
+    <string name="changeDay">Günü Değiştir</string>
+    <string name="whatShouldIEatToday">Bugün Ne Yesem</string>
+    <string name="todaysRecipe">Günün Yemek Tarifi:</string>
+    <string name="app_slogan">Boğaziçi Yemekhane Menüsünü Sesli Okuyan, Herkes İçin Yemekhane Uygulaması</string>
+</resources>
