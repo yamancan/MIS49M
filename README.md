@@ -1,19 +1,17 @@
 # MIS49M
 MIS49M Final Project
+MIS49M Final Projesi olarak toplum yararı düşünülerek tasarlanmıştır. 
 
 
 <h1> Sesli Dinleme Özellikli Boğaziçi Yemekhane Uygulaması</h1>
-BUYEMEK, günlük yemekhane menüsünü sesli okuyarak her kullanıcı için erişilebilir bir uygulama olmayı amaçlar. 
-Boğaziçi Üniversitesi MIS49M Final Projesi olarak toplum faydası düşünülerek tasarlanmıştır. 
+
+
+
+
+BUYEMEK, seslendirmeye ihtiyacı olan öğrenciler de düşünülerek tasarlanmış, türkçe seslendirme asistanlı bir boğaziçi yemekhane menüsü uygulamasıdır.Oldukça sade arayüzü ile günün Boğaziçi Üniversitesi Yemekhane Menüsünü seslendirmesinin yanı sıra, farklı bir gün için yemekhane menüsünü seslendirebilir ve güne özel daha önce tanımlanmış yemek tarifini verebilir.  
 
 Kullanıcı Deneyim Tasarımı, ekran tasarımından fazlasıdır ve her kullanıcı için minimum temel bir fayda sağlamak üzerine tasarlanmalıdır. 
-BUYEMEK oldukça kolay ve sade arayüzü ile yemekhanede günün yemeğini seslendirir. 
 
-Ayrıca her gün yeni bir yemek tarifi verir. 
-
-
-BUYEMEK, her öğrenci düşünülerek tasarlanmış seslendirme asistanlı bir boğaziçi yemekhane menüsü uygulamasıdır. 
-MIS49M Final Projesi olarak toplum yararı düşünülerek tasarlanmıştır. 
 
 BUYEMEK, kolay arayüzü: 
 <br>
