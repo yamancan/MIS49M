@@ -1,7 +1,11 @@
-Tanıtım Videosu: https://youtube.com/embed/bEVta4UM0Pk
+
 # MIS49M
 MIS49M Final Project
 MIS49M Final Projesi olarak toplum yararı düşünülerek tasarlanmıştır. 
+
+[![Youtube Tanıtım Videosu](https://user-images.githubusercontent.com/26391983/122676656-a755ca00-d1e7-11eb-8a97-eb97bad1bf3d.jpg)](https://youtu.be/bEVta4UM0Pk)
+Tanıtım Videosu: https://youtube.com/embed/bEVta4UM0Pk
+
 
 
 <h1> Sesli Dinleme Özellikli Boğaziçi Yemekhane Uygulaması</h1>
