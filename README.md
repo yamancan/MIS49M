@@ -1,4 +1,4 @@
-https://youtu.be/bEVta4UM0Pk
+ https://youtube.com/embed/bEVta4UM0Pk
 # MIS49M
 MIS49M Final Project
 MIS49M Final Projesi olarak toplum yararı düşünülerek tasarlanmıştır. 
