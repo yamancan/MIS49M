@@ -16,6 +16,7 @@ BUYEMEK, her öğrenci düşünülerek tasarlanmış seslendirme asistanlı bir 
 MIS49M Final Projesi olarak toplum yararı düşünülerek tasarlanmıştır. 
 
 BUYEMEK, kolay arayüzü: 
+<br>
 <img width="360" alt="Screen Shot 2021-06-20 at 16 13 35" src="https://user-images.githubusercontent.com/26391983/122675518-7921bb80-d1e2-11eb-8c69-2be23d2fff69.png">
 <ul> 
   <li> Sol buton yemekhane menüsüne gider. </li>
