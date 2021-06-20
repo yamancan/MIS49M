@@ -13,7 +13,7 @@ Tanıtım Videosu: https://youtube.com/embed/bEVta4UM0Pk
 
 
 
-BUYEMEK, seslendirmeye ihtiyacı olan öğrenciler de düşünülerek tasarlanmış, türkçe seslendirme asistanlı bir boğaziçi yemekhane menüsü uygulamasıdır.Oldukça sade arayüzü ile günün Boğaziçi Üniversitesi Yemekhane Menüsünü seslendirmesinin yanı sıra, farklı bir gün için yemekhane menüsünü seslendirebilir ve güne özel daha önce tanımlanmış yemek tarifini verebilir.  
+BUYEMEK, seslendirmeye ihtiyacı olan öğrenciler de düşünülerek tasarlanmış, türkçe seslendirme asistanlı bir boğaziçi yemekhane menüsü uygulamasıdır. Oldukça sade bir arayüzü ile ekrana bakmadan kullanılabilir.  Boğaziçi Üniversitesi yemekhanesindeki günlük menüyü seslendirmesinin yanı sıra, o güne özel daha önce tanımlanmış yemek tarifini verebilir.  
 
 Kullanıcı Deneyim Tasarımı, ekran tasarımından fazlasıdır ve her kullanıcı için minimum temel bir fayda sağlamak üzerine tasarlanmalıdır. 
 
